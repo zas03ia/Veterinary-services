@@ -1,9 +1,35 @@
-# Veterinary-services
-It is a website designed for pet owners, so that they can get all the services they require for owning a pet. This website also provides a bridge for the vets to connect to their clients and be encouraged in their fields
-Pet owners can look for diffrerent doctors in different hospitals, locations and proficiencies
-Pet owners can request for an appointment
-Docotors can aaccept/reject the appointment requests
-Pet owners can shop pet necessities from the website
-Login/authorisation available
-User specific accounts
-Past orders and appointment history available
+PetCare Web Application
+
+Overview
+PetCare is a web application built using Flask that provides a platform for pet owners and veterinarians to manage pet-related information, make appointments, and purchase pet products. This application aims to streamline the interaction between pet owners and veterinarians, making it easier to access pet care services.
+
+Features
+User Authentication: Allows users to sign up and log in, differentiating between pet owners and doctors.
+Pet Store: Provides a list of pet products and allows users to make purchases.
+Appointment Management: Allows pet owners to request appointments with veterinarians and doctors to manage these requests.
+Past Orders: Displays a history of past orders for each user.
+Blog Section: Provides a platform for sharing pet-related articles and information.
+Technologies Used
+Python: The backend of the application is written in Python using the Flask framework.
+MySQL: Database management using MySQL for storing user information, product details, appointments, and orders.
+HTML/CSS/JavaScript: Frontend design and interactivity using standard web technologies.
+
+
+
+
+To get started with this application, follow these steps:
+
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/PetCare-Web-App.git
+Install Dependencies:
+
+Copy code
+pip install -r requirements.txt
+Run the Application:
+
+Copy code
+python app.py
+Access the application by visiting http://localhost:5000 in your web browser.
