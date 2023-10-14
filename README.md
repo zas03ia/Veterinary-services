@@ -1,4 +1,4 @@
-PetCare Web Application
+Pet Care Web Application and Veterinary services
 
 Overview
 PetCare is a web application built using Flask that provides a platform for pet owners and veterinarians to manage pet-related information, make appointments, and purchase pet products. This application aims to streamline the interaction between pet owners and veterinarians, making it easier to access pet care services.
